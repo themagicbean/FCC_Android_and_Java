@@ -1,1 +1,10 @@
-Does a marginal tiny bit more than just display hello world, but not much more.  Since the course is switching to a Java focus it may be a while before anything more interesting goes in the parent folder.
+Does a marginal tiny bit more than just display hello world, but not much more.  
+
+Since the course is switching to a Java focus it may be a while before anything more interesting goes in the parent folder.
+
+SDK comes with a google of files (forgive the pun) so only the main two are here, they are:
+
+XML file local location:
+... AndroidStudioProjects\HelloWorld\app\src\main\res\layout
+
+... AndroidStudioProjects\HelloWorld\app\src\main\java\com\example\helloworld
